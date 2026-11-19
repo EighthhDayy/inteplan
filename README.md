@@ -1,31 +1,30 @@
-<div align="center">
-
 # 👋 inteplan
 
-### Agentic Task Automation & Retrieval-Augmented Knowledge Platform
+### Less Planning. More Doing.
 
-**An end-to-end AI backend built with FastAPI, LLM tool calling, RAG, and asynchronous document processing.**
+---
 
-<br />
+**Have you ever had moments like this?**
 
-![Python](https://img.shields.io/badge/Python-3.13%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-RQ-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+You have so many things you want to try, along with countless tasks from work, study, and everyday life that need your attention. You want to get them all done well, but you don't know where to start.
 
-<br />
+Just thinking about having to organize your thoughts, schedule your time, keep track of different deadlines, and even manually create and manage task lists is already exhausting. So you stop, letting those ideas pile up and become tangled in your mind, until some of them gradually fade away.
 
-[![CI](https://github.com/EighthhDayy/ai-task-manager/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/EighthhDayy/ai-task-manager/actions/workflows/ci.yml)
-![OpenAI](https://img.shields.io/badge/OpenAI-Responses%20API-412991?style=flat-square&logo=openai)
-![Auth](https://img.shields.io/badge/Auth-JWT%20%2B%20Argon2-555?style=flat-square)
-![Project](https://img.shields.io/badge/Project-Independent%20Engineering-7957D5?style=flat-square)
+The things you have to do may eventually get done. But what about the ideas that once excited you? They might be valuable and deeply meaningful to you, yet simply because planning and managing them feels like a hassle, they never get the chance to become reality.
 
-<br />
+### Now, you have inteplan.
 
-[**Overview**](#overview) · [**Architecture**](#system-architecture) · [**Features**](#core-capabilities) · [**Quick Start**](#quick-start) · [**API**](#api-reference) · [**Engineering**](#engineering-highlights) · [**Roadmap**](#roadmap)
+Go ahead and tell it everything on your mind. Vague ideas, disorganized descriptions, or a whole bunch of things waiting to be taken care of — you can hand them all over to inteplan.
 
-</div>
+inteplan is your partner in action: it understands your intentions, organizes scattered information, breaks down goals, plans the steps, and helps you create and manage tasks.
+
+**And you only need to focus on the next action inteplan has planned for you.**
+
+---
+
+### Turn ideas into action.
+
+**Team up with inteplan and do anything.**
 
 ## Live Demo
 
