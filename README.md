@@ -22,9 +22,7 @@ inteplan is your partner in action: it understands your intentions, organizes sc
 
 ---
 
-### Turn ideas into action.
-
-**Team up with inteplan and do anything.**
+### Turn ideas into action. Team up with inteplan and do anything.
 
 ## Live Demo
 
