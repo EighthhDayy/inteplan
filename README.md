@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ intelplan
+# 👋 inteplan
 
 ### Agentic Task Automation & Retrieval-Augmented Knowledge Platform
 
