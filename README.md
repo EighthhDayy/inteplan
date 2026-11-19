@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ AI TASK MANAGER
+# ⚡ intelplan
 
 ### Agentic Task Automation & Retrieval-Augmented Knowledge Platform
 
