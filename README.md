@@ -28,31 +28,8 @@ inteplan is your partner in action: it understands your intentions, organizes sc
 
 [Demo](https://eighthhdayy.github.io/ai-task-manager/)
 
-This is a **simulated browser-only demo**. Task management, Agent tool calls and deletion confirmations, Qwen answers, and RAG indexing/retrieval are simulated locally. It does not connect to a backend or call real AI APIs. No login or API keys are required. Selected files are not uploaded or parsed; RAG answers use the built-in sample document. Changes last only until the page is refreshed.
+Task management, Agent tool calls and deletion confirmations, Qwen answers, and RAG indexing/retrieval are simulated locally. It does not connect to a backend or call real AI APIs. No login or API keys are required. Selected files are not uploaded or parsed; RAG answers use the built-in sample document. Changes last only until the page is refreshed.
 
-GitHub Pages deploys only `frontend/dist` through `.github/workflows/pages.yml`. In **Settings → Pages → Build and deployment**, select **GitHub Actions**. Pushes to `main` that change the frontend or workflow deploy automatically; the workflow also supports manual runs.
-
-To build the same demo locally (Bash/WSL):
-
-```bash
-cd frontend
-npm ci
-VITE_DEMO_ONLY=true npm run build
-npm run preview
-# Open http://localhost:4173/ai-task-manager/
-```
-
-The Pages build sets Vite's base to `/ai-task-manager/` and blocks API requests. Normal local builds retain the backend-connected mode.
-
----
-
-## Overview
-### MCP task tools
-
-An optional stdio MCP server exposes `list_tasks`, `create_task`, and `complete_task`
-through the existing authenticated REST API. Includes typed schemas, structured output,
-user isolation checks, and a runnable client. See the [MCP setup and demo guide](docs/mcp.md).
-Install with `uv sync --frozen --extra mcp`.
 
 **AI Task Manager** is a full-stack-infrastructure-oriented **AI backend system** that connects large language models to real business operations and private document knowledge.
 
