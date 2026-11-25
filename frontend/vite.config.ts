@@ -6,7 +6,7 @@ import tailwindcss from '@tailwindcss/vite'
 // In production, put a reverse proxy in front of /api or set VITE_API_BASE_URL.
 export default defineConfig({
   // The Pages workflow enables the browser-only demo; normal builds keep API support.
-  # old name: base: process.env.VITE_DEMO_ONLY === 'true' ? '/ai-task-manager/' : '/',
+  // old name: base: process.env.VITE_DEMO_ONLY === 'true' ? '/ai-task-manager/' : '/',
   base: process.env.VITE_DEMO_ONLY === 'true' ? '/inteplan/' : '/',
   plugins: [react(), tailwindcss()],
   server: {
